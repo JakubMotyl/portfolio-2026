@@ -7,6 +7,9 @@
     --color-muted-fg: var(--muted-fg);
     --color-accent: var(--accent);
     --color-dock: var(--dock-bg);
+
+    /* Custom Breakpoint */
+    --breakpoint-xs: 400px;
 }
 
 @layer base {
